@@ -1,0 +1,114 @@
+body {
+	background-color: #781010;
+}
+
+
+h1 {
+	color: #DF5050;
+	font-size: 120px;
+	font-family: "Freestyle Script";
+	border-style: none none solid none; 
+}
+
+p {
+	border-style: dashed;
+	border-color: white;
+	color: #5084D8;
+	font-family: "comic sans ms";
+	font-size: 40; 
+
+}
+
+p2 { 
+	border-style: none; 
+	border-color: white; 
+	color: 4BC60D;
+	font-family: "Courier"; 
+	font-size: 38;
+
+}
+
+b1 {
+	
+	border-style: none; 
+	border-color: white; 
+	color: yellow;
+	font-family: "Courier"; 
+	font-size: 38;
+}
+b2 {
+	
+	border-style: none; 
+	border-color: white; 
+	color: #054e00;
+	font-family: "Courier"; 
+	font-size: 38;
+}
+b3 {
+	
+	border-style: none; 
+	border-color: white; 
+	color: #e08400;
+	font-family: "Courier"; 
+	font-size: 38;
+}
+b4 {
+	
+	border-style: none; 
+	border-color: white; 
+	color: purple;
+	font-family: "Courier"; 
+	font-size: 38;
+}
+p3 {
+	font-family: "Georgia";
+	font-size: 45; 
+}
+
+p4 {
+	color: #5084D8;
+	font-size: 40;
+	color: yellow;
+	font-family: "Comic Sans ms";
+	border-style: dotted;
+}
+
+#top {
+	background-color: white; 
+	height: 150px; 
+	width: 1580px;
+	margin: 10px 10px 10px 10px;
+ 
+}
+#side {
+	background-color: #5084D8;
+	height: 1180px;
+	width: 190px;
+	float: left;
+	padding: 20px 0 0 0;
+	margin: 0 10px 10px 0;
+}
+
+#main {
+	background-color: black;
+	width: 1380px; 
+	height: 1200px;
+	float: left;
+	padding: 0 10px 0 10px; 
+	margin: 0 0 10px 0; 
+
+}
+
+#wrapper {
+	background-color: black;
+	height 2000px;
+	width: 1600px; 
+	margin-left: auto;
+	margin-right: auto; 
+}
+
+.gear {
+	height: 300px;
+	margin: 10px 10px 10px 10px;
+	float left; 
+}
