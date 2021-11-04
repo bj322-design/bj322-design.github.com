@@ -1,0 +1,65 @@
+body {
+    background-color: rgb(0, 0, 0);
+}
+
+h1 {
+    font-family: sans-serif;
+    font-size: 80px;
+}
+
+p {
+    font-family: sans-serif;
+    font-size: 30px;
+}
+
+p1 {
+    font-family: sans-serif;
+    font-size: 50px;
+    color: white;  
+}
+
+a {
+    color: white;
+}
+
+#top1 {
+    background-color:rgb(255, 255, 255);
+    height: 260px;
+    width: 1780px; 
+    margin: 10px 10px 10px 10px;
+    float: left;
+}
+#topb {
+    background-color: rgb(91, 162, 255);
+    height: 60px;
+    width: 1750px;
+    margin: 0px 0px 0px 0px;
+    padding: 0 0 0 10px;
+    float: left;
+    border: 10px solid;
+    border-color: black;
+}
+
+#main {
+	background-color: rgb(91, 162, 255);
+	width: 1770px; 
+	height: 1160px;
+	padding: 0 0 0 10px; 
+	margin: 10px 0px 00px 10px;
+    float: left; 
+
+}
+
+#wrapper {
+	background-color: rgb(255, 255, 255);
+	height: 1460px;
+	width: 1800px; 
+	margin-left: auto;
+	margin-right: auto; 
+}
+
+.gear {
+    height: 500px;
+    margin: 0 10px 10px 00px ; 
+    float: left; 
+}
