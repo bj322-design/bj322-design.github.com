@@ -54,7 +54,7 @@ p2 {
 #main {
 	background-color: rgb(91, 162, 255);
 	width: 1770px; 
-	height: 1250px;/*was 1160 better was 1200*/
+	height: 1050px;/*was 1200*/
 	padding: 0 0 0px 10px; 
 	margin: 10px 0px 0px 10px;
     float: left; 
@@ -63,7 +63,7 @@ p2 {
 
 #wrapper {
 	background-color: rgb(255, 255, 255);
-	height: 1580; /*1550*/
+	height: 1375; /*1550*/
 	width: 1800px; 
 	margin-left: auto;
 	margin-right: auto; 
@@ -76,7 +76,24 @@ p2 {
 }
 
 .gear1 {
-    height: 750px; 
-    margin: 0 10px 10px 0;
+    height: 640px; 
+    margin: 10px 20px 10px 0;
     float: right;
+}
+
+#main2 {
+    background-color: rgb(91, 162, 255);
+	width: 1770px; /*1770px*/
+	height: 750px;/*1050px*/
+	padding: 0 0 0px 10px; 
+	margin: 10px 0px 0px 10px;
+    float: left;
+}
+
+#wrapper2 {
+    background-color: rgb(255, 255, 255);
+	height: 1075; /*1375px*/
+	width: 1800px; 
+	margin-left: auto;
+	margin-right: auto; 
 }
