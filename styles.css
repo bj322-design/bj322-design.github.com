@@ -43,13 +43,23 @@ p2 {
 #topb {
     background-color: rgb(91, 162, 255);
     height: 60px;/*85*/
-    width: 1750px;
+    width: 855px; /*1750*/
     margin: 0px 0px 0px 0px;
     padding: 0px/*10*/ 0px 25px/*10*/ 10px;
     float: left;
     border: 10px solid;
     border-color: black;
 } 
+#topbr {
+    background-color: rgb(91, 162, 255);
+    height: 60px;/*85*/
+    width: 855px; /*1750*/
+    margin: 0px 0px 0px 0px;
+    padding: 0px/*10*/ 0px 25px/*10*/ 10px;
+    float: left;
+    border: 10px solid;
+    border-color: black;
+}
 
 #main {
 	background-color: rgb(91, 162, 255);
